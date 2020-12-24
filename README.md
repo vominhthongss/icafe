@@ -5,4 +5,4 @@
 
 
 
-!!!!!! In KetNoi.java file you edit suitale for your user and password
+##@$@### In KetNoi.java file you edit suitale for your user and password
